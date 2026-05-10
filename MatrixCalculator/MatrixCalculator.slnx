@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MatrixCalculator/MatrixCalculator.vcxproj" />
+  <Project Path="MatrixCalculator/MatrixCalculator.vcxproj" Id="a784f06a-4b49-4432-968b-a37234070cf9" />
 </Solution>
